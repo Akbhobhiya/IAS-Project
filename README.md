@@ -36,7 +36,6 @@ All the required libraries are in requirement.txt folder. Before run the applica
 <ul>
   <li> <a href="https://github.com/Akbhobhiya">Ashok Bhobhiya</a> </li>
 </ul>
-<br>
 <ul>
   <li>Wish to Contributing</li>
   <li>Please feel free to send a pull request or create an issue if you find any.</li>
